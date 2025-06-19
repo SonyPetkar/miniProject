@@ -1,7 +1,6 @@
 body{
     background-color: beige;
 }
-
 h1{
     color: yellowgreen;
     text-align: center;
@@ -33,3 +32,10 @@ h1{
     font-weight:bolder;
     font-family: 'Times New Roman';
 }
+.parent-container{
+    text-align:center;
+    color: darkblue;
+    font-family: 'Times New Roman';
+}
+
+
